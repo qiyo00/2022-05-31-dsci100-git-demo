@@ -7,3 +7,5 @@ Panda face!
 
 We can clone our project into our home folder.
 Use the https URL.
+
+setting > developer setting > Personal Access Token

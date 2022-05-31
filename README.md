@@ -6,4 +6,4 @@ Hello!
 Panda face!
 
 We can clone our project into our home folder.
-Use the https URL
+Use the https URL.
